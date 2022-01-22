@@ -1,0 +1,5 @@
+Host client
+    HostName 192.168.0.0
+    User root
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_rsa
